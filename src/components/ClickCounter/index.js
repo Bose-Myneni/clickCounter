@@ -15,7 +15,7 @@ class ClickCounter extends Component {
       <div className="bg-container">
         <div className="container">
           <h1 className="heading">
-            The Button has been clicked <span className="span">{count}</span>{' '}
+            The Button has been clicked <span className="span">{count}</span>
             times
           </h1>
           <p className="description">click the button to increase the count</p>
